@@ -12,10 +12,5 @@
      "repository": "TeamHorizon/android_vendor_asus",
      "target_path": "vendor/asus",
      "branch": "n"
-   },
-   {
-     "repository": "TeamHorizon/android_device_asus_Z00ED",
-     "target_path": "device/asus/Z00ED",
-     "branch": "n"
    }
 ]
