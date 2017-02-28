@@ -12,5 +12,10 @@
      "repository": "TeamHorizon/android_vendor_asus",
      "target_path": "vendor/asus",
      "branch": "n"
+   },
+   {
+      "repository": "LineageOS/android_packages_apps_FlipFlap",
+      "target_path": "packages/apps/FlipFlap",
+      "branch": "cm-14.1"
    }
 ]
