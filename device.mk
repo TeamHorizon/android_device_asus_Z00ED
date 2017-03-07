@@ -42,5 +42,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     WCNSS_qcom_wlan_nv.bin
     
+# FlipFlap
 PRODUCT_PACKAGES += \
-FlipFlap
+    FlipFlap
